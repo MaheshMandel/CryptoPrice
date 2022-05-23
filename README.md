@@ -1,1 +1,1 @@
-![This is an image](https://firebasestorage.googleapis.com/v0/b/login-3fe6a.appspot.com/o/Github%2FScreenshot_2022-05-16-10-14-14-402_CryptoCoin.expo.jpg?alt=media&token=ddd24973-d19e-4d33-b335-eb40dca91043)
+![This is an image](https://firebasestorage.googleapis.com/v0/b/login-3fe6a.appspot.com/o/Github%2FUntitled-1.png?alt=media&token=9edadd03-fbcf-47cd-846c-ca8ba781c0d1)
